@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="test">c2dd0bd01b5e001042d60e9cdc4bcbe7</application>
+        <filter/>
+        <name>tests</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_snc_spartan2.test_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>anjana.krishnamurthi@snc</sys_created_by>
+        <sys_created_on>2020-07-08 13:47:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e5c37bb2db7d1410f169f7b51d961989</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tests</sys_name>
+        <sys_package display_value="spartan2" source="x_snc_spartan2">d911bbfedb3d1410f169f7b51d9619e6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="spartan2">d911bbfedb3d1410f169f7b51d9619e6</sys_scope>
+        <sys_update_name>sys_ui_module_e5c37bb2db7d1410f169f7b51d961989</sys_update_name>
+        <sys_updated_by>anjana.krishnamurthi@snc</sys_updated_by>
+        <sys_updated_on>2020-07-08 13:47:51</sys_updated_on>
+        <table>x_snc_spartan2_test1</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
